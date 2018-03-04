@@ -1,0 +1,29 @@
+{
+  "name": "react-stylings-comparison",
+  "version": "1.0.0",
+  "description": "Repo for compare react styling libraries",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ValkoVolodya/react-stylings-comparison.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ValkoVolodya/react-stylings-comparison/issues"
+  },
+  "homepage": "https://github.com/ValkoVolodya/react-stylings-comparison#readme",
+  "dependencies": {
+    "css-loader": "^0.28.10",
+    "express": "^4.16.2",
+    "style-loader": "^0.20.2",
+    "webpack": "^4.1.0",
+    "webpack-cli": "^2.0.10"
+  },
+  "devDependencies": {
+    "webpack-merge": "^4.1.2"
+  }
+}
